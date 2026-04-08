@@ -1,39 +1,24 @@
-# 💻 Desenvolvimento Web — IFBA
+# Desenvolvimento Web - IFBA
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
-![Main Language](https://img.shields.io/badge/Tech-HTML5%20%26%20CSS3-orange?style=for-the-badge&logo=html5)
-![OS](https://img.shields.io/badge/Environment-Ubuntu%20Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+Este repositório foi criado para armazenar os projetos e atividades práticos da disciplina de **Desenvolvimento Web**, ministrada pelo **Professor Fabiano**.
 
-Este repositório contém todo o material prático, notas de aula e desafios desenvolvidos durante a disciplina de **Desenvolvimento Web** no IFBA Campus Paulo Afonso.
+## 💻 Sobre a Disciplina
 
----
+O foco principal é o aprendizado das tecnologias fundamentais que compõem a camada de front-end, explorando conceitos de estruturação, estilização e comportamento dinâmico de páginas web.
 
-## 🎯 Objetivos de Aprendizado
-- [x] Estruturação semântica com **HTML5**.
-- [x] Estilização moderna e responsiva com **CSS3** (Flexbox/Grid).
-- [x] Interatividade no front-end via **JavaScript**.
-- [ ] Integração com Back-end e consumo de APIs.
+## 🛠️ Tecnologias Estudadas
 
-## 🛠️ Tecnologias & Ferramentas
-Abaixo, as tecnologias que utilizo no dia a dia deste curso:
+* **HTML5**: Marcação e estrutura semântica.
+* **CSS3**: Estilização, design responsivo e layouts.
+* **JavaScript**: Lógica de programação aplicada ao navegador e manipulação do DOM.
 
-| Ferramenta | Descrição |
-| :--- | :--- |
-| **Visual Studio Code** | Editor de código principal. |
-| **Google Chrome DevTools** | Depuração e inspeção de elementos. |
-| **Git & GitHub** | Controle de versionamento. |
-| **Linux (Ubuntu)** | Sistema operacional de desenvolvimento. |
+## 📁 Estrutura do Repositório
+
+As atividades estão organizadas de acordo com o progresso das aulas:
+* `/exercicios`: Pequenos desafios de lógica e sintaxe.
+* `/projetos`: Aplicações completas desenvolvidas durante o semestre.
 
 ---
-
-## 📂 Estrutura do Repositório
-
-O conteúdo está organizado por módulos para facilitar a consulta:
-
-```bash
-.
-├── 📁 modulo-01/          # Fundamentos de HTML (Semântica, Forms)
-├── 📁 modulo-02/          # CSS Avançado (Layouts, Responsividade)
-├── 📁 modulo-03/          # JavaScript Básico ao DOM
-├── 📁 projetos/           # Projetos integradores da disciplina
-└── README.md              # Documentação principal
+**Estudante:** Matheus Souza  
+**Curso:** Ciência da computção
+**Instituição:** Instituto Federal da Bahia (IFBA)
