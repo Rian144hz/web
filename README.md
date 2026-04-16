@@ -8,10 +8,11 @@ Repositório de exercícios e projetos da disciplina de **Tecnologias Web**, foc
 |------|------|-----------|
 | [aula-01](./aula-01) | Introdução ao HTML | Estrutura básica de um documento HTML |
 | [aula-02](./aula-02) | Elementos HTML | Títulos, parágrafos, listas, formatação de texto e imagens |
-| [aula-03](./aula-03) | - | - |
-| [aula-04](./aula-04) | - | - |
+| [aula-03](./aula-03) | Links |  Hypertext Reference: HREF Link interno: site para o site Link externo: site para o internet (HTTPS) Link âncora: página para mesma página |
+| [aula-04](./aula-04) | HTML Semântico v2 | header nav main section article footer |
 | [aula-05](./aula-05) | CSS e Layout | Introdução ao CSS e estrutura semântica de páginas |
 | [aula-06](./aula-06) | Tabelas | Criação e estilização de tabelas em HTML |
+| [aula-07](./aula-07) | Exercício Prático | Tags Semânticas e Tabelas |
 
 ## 🛠️ Tecnologias Utilizadas
 
