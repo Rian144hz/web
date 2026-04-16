@@ -63,7 +63,7 @@ Para visualizar os exercícios localmente:
 
 ## 👨‍🎓 Aluno
 
-- **Rian** (rian144hz)
+- **Matheus Rian** (rian144hz)
 
 ---
 
