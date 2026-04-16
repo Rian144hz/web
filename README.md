@@ -1,10 +1,22 @@
-# 🌐 Tecnologias Web
+# 🌐 Tecnologias Web - IFBA
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Rian144hz/web?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Rian144hz/web?style=for-the-badge&color=yellow)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Rian144hz/web?style=for-the-badge)
 
-Repositório dedicado aos exercícios e projetos práticos da disciplina de **Tecnologias Web**. O foco é o domínio das camadas fundamentais da web: estrutura, estilo e comportamento.
+Repositório central de exercícios e projetos da disciplina de **Tecnologias Web**. Aqui documento minha evolução no desenvolvimento Front-end, desde a estruturação semântica até a estilização avançada.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+Para este curso, utilizo o seguinte conjunto de tecnologias:
+
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) → Estruturação de conteúdo.
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) → Estilização e layouts responsivos.
+- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) → Lógica e interatividade (em breve).
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) → Sistema operacional base.
+- ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) → Editor de código principal.
 
 ---
 
@@ -22,11 +34,10 @@ Repositório dedicado aos exercícios e projetos práticos da disciplina de **Te
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🚀 Como Clonar e Executar
 
-As ferramentas utilizadas no desenvolvimento das atividades:
+Se você deseja testar este projeto localmente, siga os passos abaixo:
 
-* **HTML5** - Estruturação Semântica
-* **CSS3** - Estilização e Design Responsivo
-* **JavaScript** - Interatividade (Em breve)
-* **VS Code**
+1. **Abra o terminal e clone o repositório:**
+   ```bash
+   git clone [https://github.com/Rian144hz/web.git](https://github.com/Rian144hz/web.git)
