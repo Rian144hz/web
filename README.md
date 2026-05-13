@@ -34,6 +34,7 @@ Para este curso, utilizo o seguinte conjunto de tecnologias:
 | [08](./aula-08) | **Formulario** | Uso de button label de subtmit + Form | ✅ |
 | [09](./aula-09) | **Formulario** | Uso de button label de subtmit + Form | ✅ |
 | [10](./aula-10) | **Exercicio pratico** | Uso de button label de subtmit + Form tabelas links | ✅ |
+| [11](./aula-11) | **Exercicio pratico** | Uso de html e de css + imagens  links | ✅ |
 
 ---
 
