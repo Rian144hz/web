@@ -31,7 +31,9 @@ Para este curso, utilizo o seguinte conjunto de tecnologias:
 | [05](./aula-05) | **CSS Layout** | Seletores, cores, fontes e Box Model | ✅ |
 | [06](./aula-06) | **Dados** | Construção e estilização de tabelas | ✅ |
 | [07](./aula-07) | **Workshop** | Revisão prática de Semântica + Tabelas | ✅ |
-| [07](./aula-08) | **Formulario** | Uso de button label de subtmit + Form | ✅ |
+| [08](./aula-08) | **Formulario** | Uso de button label de subtmit + Form | ✅ |
+| [09](./aula-09) | **Formulario** | Uso de button label de subtmit + Form | ✅ |
+| [10](./aula-10) | **Exercicio pratico** | Uso de button label de subtmit + Form tabelas links | ✅ |
 
 ---
 
