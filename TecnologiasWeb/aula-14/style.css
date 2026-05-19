@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f9;
+}
+
+header {
+    background-color: #0f172a;
+    padding: 50px 20px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 4px solid #082d7c;
+
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 100vh;
+    gap: 30px;
+    padding: 40px;
+    grid-auto-rows: 1fr;
+
+}
+
+.card {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 95%;
+    background-color: #ffff;
+    border-radius: 10px;
+    align-items: stretch;
+
+    animation: aparecer 0.6s ease-in-out;
+    animation: aparecerDoChao 0.9s ease-in-out;
+
+}
+
+.card img {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+    object-position: center;
+
+
+}
+
+.card h2 {
+    margin: 15px 20px 5px 20px;
+    font-size: 20px;
+    color: #2c3e50;
+}
+
+.card p {
+    margin: 0 20px 20px 20px;
+    font-size: 14px;
+    line-height: 1.6;
+    flex-grow: 1;
+}
+
+.card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card button {
+    margin: 0 20px 20px 20px;
+    padding: 15px;
+    background-color: #0e2967;
+
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+
+    font-weight: bold;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    width: auto;
+    box-sizing: border-box;
+
+    transition: background-color 0.2s ease-in-out;
+
+}
+
+.card:hover button {
+    background-color: #057af7;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+@keyframes aparecer {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+
+    }
+
+}
+
+@keyframes aparecerDoChao {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media(max-width: 600px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    header{
+    padding: 30px 15px;
+    }
+
+    .card img{
+    height: 220px;
+    }
+}
