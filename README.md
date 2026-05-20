@@ -38,6 +38,7 @@ Para este curso, utilizo o seguinte conjunto de tecnologias:
 | [12](./aula-12) | **Resposividade** | Uso de @media para telefones| ✅ |
 | [13](./aula-13) | **Layouts** | uso de grid, flex, flex-box | ✅ |
 | [14](./aula-14) | **Exercicio pratico** | Uso de grid e de css animações resposvidade + imagens  links | ✅ |
+| [15](./aula-15) | **JavaScript** | inicio da linguagem js, tipos, loops, condicionais | ✅ |
 
 ---
 
