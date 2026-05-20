@@ -35,6 +35,9 @@ Para este curso, utilizo o seguinte conjunto de tecnologias:
 | [09](./aula-09) | **Formulario** | Uso de button label de subtmit + Form | ✅ |
 | [10](./aula-10) | **Exercicio pratico** | Uso de button label de subtmit + Form tabelas links | ✅ |
 | [11](./aula-11) | **Exercicio pratico** | Uso de html e de css + imagens  links | ✅ |
+| [12](./aula-12) | **Resposividade** | Uso de @media para telefones| ✅ |
+| [13](./aula-13) | **Layouts** | uso de grid, flex, flex-box | ✅ |
+| [14](./aula-14) | **Exercicio pratico** | Uso de grid e de css animações resposvidade + imagens  links | ✅ |
 
 ---
 
