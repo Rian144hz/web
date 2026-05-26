@@ -39,7 +39,7 @@ Para este curso, utilizo o seguinte conjunto de tecnologias:
 | [13](./aula-13) | **Layouts** | uso de grid, flex, flex-box | ✅ |
 | [14](./aula-14) | **Exercicio pratico** | Uso de grid e de css animações resposvidade + imagens  links | ✅ |
 | [15](./aula-15) | **JavaScript** | inicio da linguagem js, tipos, loops, condicionais | ✅ |
-| [16](./aula-16) | **JavaScript** | avançando na linguagem js, api ✅ |
+| [16](./aula-16) | **JavaScript** | avançando na linguagem js, api | ✅ |
 | [17](./aula-17) | **JavaScript** | inicio da linguagem js, npm server, api, npx, api | ✅ |
 
 ---
