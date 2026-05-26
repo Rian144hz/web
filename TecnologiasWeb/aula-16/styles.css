@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.grid-container {
+padding-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.card{
+  background-color: gainsboro; 
+  border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+}
+
+.card img{
+border-radius: 90px;
+}
+
+.center {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    color: #333;
+}
